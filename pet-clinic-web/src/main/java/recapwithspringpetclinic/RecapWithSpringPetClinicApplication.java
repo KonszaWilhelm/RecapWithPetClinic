@@ -1,4 +1,4 @@
-package com.wilhelm.konsza.recapwithspringpetclinic;
+package recapwithspringpetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.wilhelm.konsza.recapwithspringpetclinic.model;
+package model;
 
 import javax.persistence.Entity;
 
